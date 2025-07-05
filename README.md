@@ -21,6 +21,3 @@ A simple yet powerful **Bakery Inventory Management System** developed using **C
 - HTML, CSS, JavaScript
 - Bootstrap 5
 
-## 🖥️ How to Run the Project
-
-1. Clone this repository:
